@@ -1,0 +1,14 @@
+
+{
+  "name": "Gestione Clienti",
+  "short_name": "Clienti",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [{
+    "src": "anonymous.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }]
+}
